@@ -1,0 +1,38 @@
+body {
+    overflow-x: hidden;
+    max-width: 1600px;
+    margin:0 auto;
+}
+
+.newsblock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box1 {
+  margin: auto;
+  border: 1px solid #d1d1d1;
+  padding: 5px;
+  width: 500px;
+  text-align: center;
+}
+
+.tabs {
+  border: solid 1px;
+  border-color: gray;
+}
+
+.newscont {
+  text-align: left;
+  height: auto;
+  border: solid 1px;
+  border-color: gray;
+}
+
+.navbar {
+  padding: 5px;
+  border: solid 1px;
+  border-color: gray;
+  margin-top: 10px;
+}
